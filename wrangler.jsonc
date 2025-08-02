@@ -1,0 +1,8 @@
+{
+    "name": "juluo-MTV",
+    "compatibility_date": "2025-06-04",
+    "assets": {
+      "directory": ".vercel/output/static"
+    }
+  }
+  
